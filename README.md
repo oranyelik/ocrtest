@@ -1,4 +1,6 @@
-# Thank you https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
+# ocrtest
+Testing and experimenting with node-tesseract.
+
 ## Synopsis
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
@@ -30,3 +32,7 @@ Let people know how they can dive into the project, include important links to t
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
+
+## Thank you 
+https://gist.githubusercontent.com/jxson/1784669/raw/de4e1b30f4d08cb759dac19619d3d5ba1f35bc96/README.md
+https://www.npmjs.com/package/node-tesseract

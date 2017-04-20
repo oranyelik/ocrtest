@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/oranyelik/ocrtest/issues"
   },
-  "homepage": "https://github.com/oranyelik/ocrtest#readme"
+  "homepage": "https://github.com/oranyelik/ocrtest#readme",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
 }

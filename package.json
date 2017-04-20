@@ -1,0 +1,26 @@
+{
+  "name": "ocrtest",
+  "version": "1.0.0",
+  "description": "Testing and experimenting with the node-tesseract package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oranyelik/ocrtest.git"
+  },
+  "keywords": [
+    "ocr",
+    "test",
+    "experiment",
+    "node",
+    "js"
+  ],
+  "author": "oranyelik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oranyelik/ocrtest/issues"
+  },
+  "homepage": "https://github.com/oranyelik/ocrtest#readme"
+}
